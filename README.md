@@ -1,0 +1,2 @@
+# link.js
+js.link
